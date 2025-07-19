@@ -1,7 +1,7 @@
 # <p align="center">🧾 Invoice Parser AI</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczExenB6b2E0NnBwbGRuOHQ1aG82eHltM2xubHQ5M2dzazNwbjl3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1kU8HaRYbfxj9M2pD/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YxbWRrYXF4YjVvbDJkamlpNHNubjU1bGVnazl1NWt3MmtxdGhlcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hVEBWRInEvNOEVS18i/giphy.gif" width="300" />
 </p>
 
 <p align="center"><b>Parse, review, and export structured invoice data with just a few clicks. Built for teams. Powered by AI.</b></p>
@@ -17,9 +17,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,python,fastapi,nodejs,express,postman,git,github,vercel,vscode" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,aws,tensorflow" /><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,python,reactapi,nodejs,express,postman,git,github,vscode,mongodb" /><br/>
 </p>
 
 ---
@@ -40,7 +38,7 @@
 
 ## 🧭 User Flow
 
-1. **Login/Register** (Email, Google, or SSO)
+1. **Login/Register** (username)
 2. **Upload Invoice** using drag & drop or file picker
 3. **AI Extraction** using OCR + NLP
 4. **Review & Edit** data with real-time preview
