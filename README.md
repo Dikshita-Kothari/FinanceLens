@@ -1,1 +1,105 @@
-a
+# <p align="center">🧾 Invoice Parser AI</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczExenB6b2E0NnBwbGRuOHQ1aG82eHltM2xubHQ5M2dzazNwbjl3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1kU8HaRYbfxj9M2pD/giphy.gif" width="600" />
+</p>
+
+<p align="center"><b>Parse, review, and export structured invoice data with just a few clicks. Built for teams. Powered by AI.</b></p>
+
+---
+
+## 🧠 Overview
+
+**Invoice Parser AI** is a smart web platform that uses OCR and NLP to extract structured data from invoices (PDF, DOCX, PNG, JPG). It's designed to help businesses automate invoice management, save manual effort, and integrate with accounting workflows.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,python,fastapi,nodejs,express,postman,git,github,vercel,vscode" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,aws,tensorflow" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+</p>
+
+---
+
+## 🚀 Key Features
+
+- 📤 Upload invoices (PDF, PNG, JPG, DOCX)
+- 🤖 Extract key fields (Invoice No, Dates, Vendor, Totals, Tax)
+- 📊 Parse line items with quantity and unit price
+- 📝 Editable fields with confidence scores
+- 🔐 Role-based access: User, Manager, Admin
+- 📁 Export to CSV, JSON, Excel, XML
+- 📚 Full-text search, filter, and history
+- ⚙️ Admin dashboard for users & logs
+- 🌐 REST API access
+
+---
+
+## 🧭 User Flow
+
+1. **Login/Register** (Email, Google, or SSO)
+2. **Upload Invoice** using drag & drop or file picker
+3. **AI Extraction** using OCR + NLP
+4. **Review & Edit** data with real-time preview
+5. **Export** or fetch via API
+6. **Search** and filter previous invoices
+7. **Admin Controls** for user and template management
+
+---
+
+## 📂 Folder Structure
+
+**# <p align="center">🧾 Invoice Parser AI</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczExenB6b2E0NnBwbGRuOHQ1aG82eHltM2xubHQ5M2dzazNwbjl3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1kU8HaRYbfxj9M2pD/giphy.gif" width="600" />
+</p>
+
+<p align="center"><b>Parse, review, and export structured invoice data with just a few clicks. Built for teams. Powered by AI.</b></p>
+
+---
+
+## 🧠 Overview
+
+**Invoice Parser AI** is a smart web platform that uses OCR and NLP to extract structured data from invoices (PDF, DOCX, PNG, JPG). It's designed to help businesses automate invoice management, save manual effort, and integrate with accounting workflows.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,python,fastapi,nodejs,express,postman,git,github,vercel,vscode" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,aws,tensorflow" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+</p>
+
+---
+
+## 🚀 Key Features
+
+- 📤 Upload invoices (PDF, PNG, JPG, DOCX)
+- 🤖 Extract key fields (Invoice No, Dates, Vendor, Totals, Tax)
+- 📊 Parse line items with quantity and unit price
+- 📝 Editable fields with confidence scores
+- 🔐 Role-based access: User, Manager, Admin
+- 📁 Export to CSV, JSON, Excel, XML
+- 📚 Full-text search, filter, and history
+- ⚙️ Admin dashboard for users & logs
+- 🌐 REST API access
+
+---
+
+## 🧭 User Flow
+
+1. **Login/Register** (Email, Google, or SSO)
+2. **Upload Invoice** using drag & drop or file picker
+3. **AI Extraction** using OCR + NLP
+4. **Review & Edit** data with real-time preview
+5. **Export** or fetch via API
+6. **Search** and filter previous invoices
+7. **Admin Controls** for user and template management
+
+---
