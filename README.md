@@ -1,4 +1,4 @@
-# <p align="center">🧾 Invoice Parser AI</p>
+# <p align="center">🧾 FinanceLens</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YxbWRrYXF4YjVvbDJkamlpNHNubjU1bGVnazl1NWt3MmtxdGhlcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hVEBWRInEvNOEVS18i/giphy.gif" width="300" />
@@ -10,14 +10,14 @@
 
 ## 🧠 Overview
 
-**Invoice Parser AI** is a smart web platform that uses OCR and NLP to extract structured data from invoices (PDF, DOCX, PNG, JPG). It's designed to help businesses automate invoice management, save manual effort, and integrate with accounting workflows.
+**FinanceLens** is a smart web platform that uses OCR and NLP to extract structured data from invoices (PDF, DOCX, PNG, JPG). It's designed to help businesses automate invoice management, save manual effort, and integrate with accounting workflows.
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,reactapi,nodejs,express,postman,git,github,vscode,mongodb" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,python,fastapi,nodejs,express,postman,git,github,vscode,mongodb" /><br/>
 </p>
 
 ---
@@ -50,13 +50,13 @@
 
 ## 📂 Folder Structure
 
-**# <p align="center">🧾 Invoice Parser AI</p>
+**# <p align="center">🧾 FinanceLens</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczExenB6b2E0NnBwbGRuOHQ1aG82eHltM2xubHQ5M2dzazNwbjl3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1kU8HaRYbfxj9M2pD/giphy.gif" width="600" />
 </p>
 
-<p align="center"><b>Parse, review, and export structured invoice data with just a few clicks. Built for teams. Powered by AI.</b></p>
+<p align="center"><b>Parse, review, and export structured invoice data with just a few clicks. Built for teams.</b></p>
 
 ---
 
