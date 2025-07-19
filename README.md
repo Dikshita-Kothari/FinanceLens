@@ -1,41 +1,51 @@
-# 🧾 financelens by code vassles
+# <p align="center">🧾 FinanceLens</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ3ZmQ0Ynh6cmY0eG44N2M2NThyNXd1aG45bDNmY21rcHU0YzAxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif" width="300" />
+</p>
+
+<p align="center"><b>Parse, review, and export structured invoice data with just a few clicks. Built for teams.</b></p>
 
 ---
 
-## 🚀 Features
+## 🧠 Overview
 
-- 📤 Upload invoices (PDF, JPG, PNG, DOCX)
-- 🤖 OCR + AI-powered field extraction
+**FinanceLens** is a smart web platform that uses OCR and NLP to extract structured data from invoices (PDF, DOCX, PNG, JPG). It's designed to help businesses automate invoice management, save manual effort, and integrate with accounting workflows.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,python,fastapi,nodejs,express,postman,git,github,vscode,mongodb" /><br/>
+</p>
+
+---
+
+## 🚀 Key Features
+
+- 📤 Upload invoices (PDF, PNG, JPG, DOCX)
+- 🤖 Extract key fields (Invoice No, Dates, Vendor, Totals, Tax)
+- 📊 Parse line items with quantity and unit price
 - 📝 Editable fields with confidence scores
-- 📊 Line item parsing (description, quantity, unit price, total)
-- 👥 Role-based login (User / Manager / Admin)
+- 🔐 Role-based access: User, Manager, Admin
 - 📁 Export to CSV, JSON, Excel, XML
-- 🔌 REST API access
-- 🛡️ Admin dashboard with user and activity management
+- 📚 Full-text search, filter, and history
+- ⚙️ Admin dashboard for users & logs
+- 🌐 REST API access
 
 ---
 
-## 🧠 How It Works
+## 🧭 User Flow
 
-1. **Login** with Email/Google/SSO
-2. **Upload invoices** via drag & drop or file picker
-3. **AI auto-extracts** key fields like:
-   - Invoice Number, Date, Due Date
-   - Supplier & Buyer info
-   - Total Amount, Currency
-   - Line Items & Tax Details
-4. **Manually review and correct** low-confidence fields
-5. **Save or export** the data
-6. **Search and view history** of past uploads
+1. **Login/Register** (Email, Google, or SSO)
+2. **Upload Invoice** using drag & drop or file picker
+3. **AI Extraction** using OCR + NLP
+4. **Review & Edit** data with real-time preview
+5. **Export** or fetch via API
+6. **Search** and filter previous invoices
+7. **Admin Controls** for user and template management
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, react-pdf-viewer
-- **Backend**: FastAPI (Python) / Node.js (Express)
-- **OCR**: Tesseract / Google Vision API / AWS Textract
-- **NLP**: SpaCy, LayoutLM, HuggingFace Transformers
-- **Database**: PostgreSQL, MongoDB (optional)
-- **Auth**: Clerk.dev / Firebase Auth
-- **Storage**: AWS S3 / Google Cloud / Firebase Storage
